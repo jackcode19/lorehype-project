@@ -12,7 +12,7 @@ export default function Navbar() {
    const NavbarItem = [
     { name: "Home", link: "/" },
     { name: "Service", link: "/service" },
-    { name: "Studi Cases", link: "/case-study" },
+    { name: "Case Study", link: "/case-study" },
    ]
 
    const pathname = usePathname();
