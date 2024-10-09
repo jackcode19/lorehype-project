@@ -45,7 +45,7 @@ export default function Page() {
           </div> */}
 
           <div className="grid grid-row-2 max-w-6xl mx-auto gap-y-10 py-16 px-6 md:px-0">
-            <div className="text-lg md:text-xl max-w-5xl mx-auto">
+            <div className="text-md md:text-xl max-w-5xl mx-auto leading-relaxed">
               
               <p className="mb-3 first-letter:text-7xl first-letter:font-bold  first-letter:me-3 first-letter:float-start">Àvoust Peace, atau lebih dikenal sebagai Àvoust, adalah brand yang berdiri pada tahun 2022 dengan kreasi gaun privat untuk acara-acara khusus seperti graduation. Kini, Àvoust Peace telah berkembang merilis koleksinya sendiri yang penuh dengan sentuhan personal. Koleksi pertama mereka, È Noir Collection dengan produk pertama mereka Dé Edge Basic Jacket yang menjadi sangat populer hingga saat ini banyak pelanggan yang masih menanyakan restock-nya.
               </p>
